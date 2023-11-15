@@ -27,4 +27,4 @@ Each image element was provided a clear and concise description to assist the vi
 
 ### Refactored CSS
 
-The initial site had much redundancy in repeated attributes, so these were grouped into larger sections where the attributes only needed to be listed once, making the CSS file easier to navigate and contribute to for a future developer. 
+The initial site had much redundancy in repeated attributes, so these were grouped into larger sections where the attributes only needed to be listed once, making the CSS file easier to navigate and contribute to for a future developer. It was crucial that the refactoring maintained the CSS file's successful linking to the appropriate HTML elements and classes.
