@@ -1,4 +1,4 @@
-# <Horiseon-Refactor>
+# <Horiseon Marketing Agency Site Refactoring>
 
 ## Description
 
