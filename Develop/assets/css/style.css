@@ -92,7 +92,7 @@ p {
     max-width: 150px;
 }
 
-main section {
+.main-content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -101,21 +101,21 @@ main section {
     color: #ffffff;
 }
 
-main img {
+.main-content img {
     max-height: 200px;
 }
 
-main h2 {
+.main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-aside section {
+.aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-aside section h3 {
+.aside section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
