@@ -9,7 +9,7 @@ I seek to restructure the codebase of the marketing agency's website to follow a
 
 ## Problems Solved
 
- The project solves the issue of hard to read code by eliminating vague HTML tags with up-to-date semantic tags that easily communicate the structure of the page by highlighting the place in flow as well as function of each element within the website. The CSS file was also improved by limiting repeated code. The new HTML tags were appropriately matched to the CSS selectors to ensure the website remained visually identical to the original layout.
+ The project solves the issue of hard to read code by eliminating vague HTML tags with up-to-date semantic tags that easily communicate the structure of the page by highlighting the place in flow as well as function of each element within the website. The CSS file was also improved by limiting repeated code. The new HTML tags were appropriately matched to the CSS selectors to ensure the website remained visually identical to the original layout. CSS classes were used in place of attributes in order to make the site more adaptable to more specific individual adjustments if the site is to be built upon in the future.
 
 ## Lessons
 
