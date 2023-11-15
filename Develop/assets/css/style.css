@@ -110,12 +110,12 @@ p {
     font-size: 36px;
 }
 
-.aside section {
+.aside .aside-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.aside section h3 {
+.aside .aside-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
